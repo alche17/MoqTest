@@ -1,0 +1,9 @@
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary.deps.json
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary.pdb
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Users\acheevers\source\repos\UnitTestProject1\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary.pdb
